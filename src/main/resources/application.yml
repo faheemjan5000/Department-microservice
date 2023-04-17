@@ -1,6 +1,6 @@
-server:
-  port: 9091
+#server:
+ # port: 9091
 
 spring:
   application:
-    name: DEPARTMENT-SERVICE
+   name: DEPARTMENT-SERVICE
